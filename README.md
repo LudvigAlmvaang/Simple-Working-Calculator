@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+See a live demo of the project: https://ludvigalmvaang.github.io/Simple-Working-Calculator/
+
 ## Available Scripts
 
 In the project directory, you can run:
